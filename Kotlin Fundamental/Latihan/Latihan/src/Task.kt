@@ -23,6 +23,6 @@ fun main() {
 
 fun calculateResult(valueA: Int, valueB: Int, valueC: Int?): Int {
     // TODO
-    val result = 0
+    val result = valueA + (valueB - if (valueC != null) valueC else 50)
     return result
 }
