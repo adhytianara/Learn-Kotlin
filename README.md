@@ -1,1 +1,14 @@
-Repository ini memuat daftar contoh kode dan latihan yang ada pada kelas **Memulai Pemrograman dengan Kotlin**
+# Memulai Pemrograman Dengan Kotlin
+Kelas <a href="https://www.dicoding.com/academies/80"><b>Memulai Pemrograman Dengan Kotlin</b></a> dari <a href="https://www.dicoding.com/" ><b>Dicoding</b></a> disusun oleh expert developer Dicoding berkolaborasi dengan Deny Prasetyo (Senior Software and Infrastructure Engineer, Gojek). Materi dalam kelas ini disesuaikan bagi peserta yang ingin memahami konsep-konsep dasar Kotlin, functional programming, Object-Oriented Programming (OOP), concurrency pada Kotlin, dan lain-lain.  
+
+Materi yang dipelajari :
+- **Pengenalan Kotlin** : Memperkenalkan sejarah Kotlin, mengapa harus mempelajari Kotlin, karakteristik Kotlin, dan bagaimana Kotlin berperan dalam pengembangan aplikasi. Akan dibahas juga tentang ekosistem Kotlin.  
+- **Membangun dan Menjalankan Program Kotlin** : Membuat program pertama di Kotlin dan menjalankannya. Selain itu, Anda akan belajar bagaimana menyiapkan dan menginstal beberapa tools seperti IDE dan build tools. Materi ini akan fokus pada penggunaan Gradle sebagai build tools dan menggunakan Kotlin DSL sebagai bahasa pada Gradle. Selain itu, pada materi ini akan membahas tentang struktur Gradle, cara menambahkan dependensi, menambahkan plugin, dan cara mengkonfigurasi plugin.  
+- **Kotlin Fundamental** : Memahami tentang teori dasar Kotlin. Dengan mempelajari konsep dasar dari Kotlin seperti menggunakan tipe data, membuat fungsi dasar, menangani tipe data null, dan membuat String Template.  
+- **Control Flow** : Mempelajari perbedaan antara expression dan statement, cara menggunakan enumeration, cara mengontrol aliran program menggunakan ekspresi if dan when, dan bagaimana menerapkan perulangan menggunakan while, do-while, dan break and continue.  
+- **Data Class dan Collections** : Fokus pada bagaimana mengelola data di Kotlin dengan menggunakan data class dan collection. Anda juga akan belajar mengenai perbedaan antara collection yang ada pada Kotlin dan menggunakannya.   
+- **Kotlin Functional Programming** : Belajar lebih detail mengenai anatomi fungsi di Kotlin, bagaimana perilaku fungsi di Kotlin, lambda, high-order dan konsep fungsional lainnya. Dan juga Anda akan belajar beberapa standard library yang berhubungan dengan functional programming.  
+- **Object-Oriented Programming** : Memahami mengenai konsep OOP pada Kotlin, bagaimana membuat sebuah class, properti dan fungsi dari class, dan mensimulasikan problematika dunia nyata dalam paradigma Object-Oriented Programming (OOP).  
+- **Kotlin Generic** : Belajar tentang variance, dan cara menggunakan generic pada collection.  
+- **Kotlin Concurrency** : Belajar dasar dari konsep concurrency seperti process dan thread. Anda juga akan diajarkan tentang permasalahan dalam proses yang bersamaan seperti deadlock, livelock, starvation, dan race condition. Dengan memahami permasalahan tersebut, Anda akan belajar menggunakan Coroutine dalam menyelesaikannya.  
+- **Submission** : Mengirimkan proyek latihan yang berisi hasil pembelajaran Kotlin Fundamental hingga Kotlin Concurrency.
